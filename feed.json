@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "XR Aberteifi",
+    "description": "",
+    "home_page_url": "https://growdigital.github.io/xraberteifi.uk",
+    "feed_url": "https://growdigital.github.io/xraberteifi.uk/feed.json",
+    "user_comment": "",
+    "icon": "https://growdigital.github.io/xraberteifi.uk/media/website/logo.png",
+    "author": {
+        "name": "Philippa Gibson"
+    },
+    "items": [
+    ]
+}
